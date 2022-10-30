@@ -22,8 +22,7 @@ li {
   list-style: none;
   margin: 0;
   padding: 0;
-
-  color: rgb(135, 135, 135);
+  color: #fff;
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
@@ -39,7 +38,7 @@ li:first-letter {
 }
 
 .weather-app {
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: #fff;
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
   position: relative;
